@@ -13,7 +13,8 @@ public class ClassRoomService {
 	
 	private List<ClassRoom> classRooms = new ArrayList<>(Arrays.asList(
 			new ClassRoom("N001", "ROOM A", "SOUTH"),
-			new ClassRoom("N002", "ROOM B", "SOUTH")
+			new ClassRoom("N002", "ROOM B", "SOUTH"),
+			new ClassRoom("N003", "ROOM M", "NORTH")
 			));
 	
 	
